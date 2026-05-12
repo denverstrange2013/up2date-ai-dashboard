@@ -89,6 +89,6 @@ Up2Date uses a multi-stage pipeline:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Denver Strange
