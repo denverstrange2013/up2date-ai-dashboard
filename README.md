@@ -15,7 +15,7 @@ Rather than presenting raw articles, Up2Date reconstructs events into a structur
 ## Live Demo
 
 ### Hantavirus Event (Full AI Processing Pipeline)
-![Hantavirus Demo](Up2Date-Hanta-gif.gif)
+![Hantavirus Demo](U2D-Hantavirus.gif)
 
 ---
 
